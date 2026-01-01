@@ -1,7 +1,7 @@
 Global $DLCList[][] = [ _
     ["EP01", "Get to Work",                         "https://github.com/l1ntol/lunia-dlc/releases/download/EP01/Sims4_DLC_EP01_Get_to_Work.zip", ""], _
     ["EP02", "Get Together",                        "https://github.com/l1ntol/lunia-dlc/releases/download/EP02/Sims4_DLC_EP02_Get_Together.zip", ""], _
-    ["EP03", "City Living",                         "https://drive.google.com/file/d/1G_0kLQPLuCZ9j6U_NLZWpD99zd3Sag19/view?usp=drive_link", ""], _
+    ["EP03", "City Living",                        "https://drive.google.com/uc?export=download&id=1G_0kLQPLuCZ9j6U_NLZWpD99zd3Sag19", ""], _
     ["EP04", "Cats and Dogs",                       "https://github.com/l1ntol/lunia-dlc/releases/download/EP04/Sims4_DLC_EP04_Cats_and_Dogs.zip", ""], _
     ["EP05", "Seasons",                             "https://github.com/l1ntol/lunia-dlc/releases/download/EP05/Sims4_DLC_EP05_Seasons.zip", ""], _
     ["EP06", "Get Famous",                          "", "https://github.com/l1ntol/lunia-dlc/releases/download/EP06/Sims4_DLC_EP06_Get_Famous.7z.001|https://github.com/l1ntol/lunia-dlc/releases/download/EP06/Sims4_DLC_EP06_Get_Famous.7z.002"], _
